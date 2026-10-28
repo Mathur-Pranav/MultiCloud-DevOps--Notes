@@ -2,7 +2,7 @@
 
 This session marked the first day of the DevOps module, transitioning from prior Linux and AWS training into Git and GitHub. Students installed Git Bash, created GitHub accounts, and successfully pushed code from a local machine to a remote GitHub repository using core Git commands. The session covered version control theory, the distinction between Git and GitHub, and practical workflows including cloning, forking, staging, committing, and pushing code. 
 
----
+
 
 ## Decisions Made
 
